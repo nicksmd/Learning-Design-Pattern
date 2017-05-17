@@ -1,7 +1,7 @@
 # Learning-Design-Pattern
 Repository for my Design Pattern Learning.
 
-**Book**: [Head First Design Patterns. A Brain-Friendly Guide]. By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
+**Book**: [Head First Design Patterns. A Brain-Friendly Guide] . By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
 
 # 17/05/2017
 
@@ -13,6 +13,7 @@ Repository for my Design Pattern Learning.
 - ##### Principle 2: Program to an interface, not an implementation
 - ##### Principle 3: Favor composition over inheritance 
 
+[Head First Design Patterns. A Brain-Friendly Guide]: <http://shop.oreilly.com/product/9780596007126.do>
 
 
 
