@@ -1,3 +1,5 @@
+package Strategy;
+
 public class Dutch_duck extends Duck {
     public Dutch_duck(){
         this.flyBehavior = new FlyNoWay();

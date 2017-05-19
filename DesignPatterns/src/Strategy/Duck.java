@@ -1,3 +1,5 @@
+package Strategy;
+
 /**
  * Created by quangh on 4/7/2017.
  */
