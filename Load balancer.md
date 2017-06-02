@@ -27,7 +27,7 @@ Layer 4 LB sử dụng thông tin định nghĩa trong tầng Transport (Layer 4
 IP của nguồn và đích, port trong package header mà không dựa vào content bên trong packet.
 
 Khi nhận được request, Layer 4 LB đưa ra quyết định phân phối request sau đó
-perform Network Address Translation (NAT) để chuyển IP đích từ IP của nó thành
+perform Network Address Translation [NAT](https://www.youtube.com/watch?v=QBqPzHEDzvo) để chuyển IP đích từ IP của nó thành
 IP của server tương ứng. Tương tự, khi nhận được response từ server, nó chuyển IP nguồn
 từ của server thành IP của nó.
 
